@@ -27,6 +27,7 @@ sc_agent_of_determining_the_location_of_the_entity_in_space
 	<= nrel_sc_agent_program: 
 		{
 		agent_of_determining_the_location_of_the_entity_in_space;
+		proc_of_generating_comment;
 		proc_find_class
 		};;
 	-> sc_agent_of_determining_the_location_of_the_entity_in_space   

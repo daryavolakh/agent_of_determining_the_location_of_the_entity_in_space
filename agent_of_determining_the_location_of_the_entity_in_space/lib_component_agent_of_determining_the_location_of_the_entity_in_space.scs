@@ -29,7 +29,7 @@ lib_component_agent_of_determining_the_location_of_the_entity_in_space
 sc_node_not_relation -> action_of_determining_the_location_of_the_entity_in_space;;
 
 action_of_determining_the_location_of_the_entity_in_space => nrel_main_idtf:
-	[действие. определить расположения сущности в пространстве]
+	[действие. определить расположение сущности в пространстве]
 		(*<- lang_ru;;*);;
 action_of_determining_the_location_of_the_entity_in_space => nrel_main_idtf:
 	[action. determine the location of the entity in space]
